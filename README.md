@@ -55,7 +55,7 @@ Transfere `numOfFoodUnits` do caçador para outro viajante. Se o caçador tiver 
 
 ## Teste
 
-Nesse (https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/oregon-trail-with-bdd)[repositório] foi disponibilizado os testes desenvolvidos nos vídeos de BDD para **Traveler**, e também para **Wagon**, de uma maneira muito mais complexa.
+Nesse [repositório](https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/oregon-trail-with-bdd) foi disponibilizado os testes desenvolvidos nos vídeos de BDD para **Traveler**, e também para **Wagon**, de uma maneira muito mais complexa.
 
 Sendo assim, diferente da primeira atividade do Oregon Trail, nessa será necessário criar o BDD — Features e Steps — para cada uma das novas classes estendidas de Traveler.
 
