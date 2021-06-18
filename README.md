@@ -71,5 +71,5 @@ Talvez seja necessário alterar seu antigo código do Oregon Trail para passar n
 
 ## Envio
 
-Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, envie a url do seu Gitlab Pages (por exemplo https://username.gitlab.io/oregon-trail-inheritance/). No GitLab, adicione ka-br-correcoes como membro do seu projeto com a permissão "Reporter".
+Faça o push do código para o seu repositório GitLab. No Canvas, envie a url do repositório. No GitLab, adicione ka-br-correcoes como membro do seu projeto com a permissão "Reporter".
 
